@@ -1,0 +1,15 @@
+# ninja log v5
+2	2122	6907452253161665	Unit_1_HelloWorld_autogen/timestamp	4df1f372af4b910e
+2	2122	6907452253161665	Unit_1_HelloWorld_autogen/mocs_compilation.cpp	4df1f372af4b910e
+2	2122	6907452253161665	D:/A_Minh/B_Qt_Projects/Study_Qt/build-Unit_1_HelloWorld-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/Unit_1_HelloWorld_autogen/timestamp	4df1f372af4b910e
+2	2122	6907452253161665	D:/A_Minh/B_Qt_Projects/Study_Qt/build-Unit_1_HelloWorld-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/Unit_1_HelloWorld_autogen/mocs_compilation.cpp	4df1f372af4b910e
+2123	5016	6907452286147497	CMakeFiles/Unit_1_HelloWorld.dir/Unit_1_HelloWorld_autogen/mocs_compilation.cpp.obj	9f0e1a8e833aa9
+2126	5031	6907452286298663	CMakeFiles/Unit_1_HelloWorld.dir/main.cpp.obj	32fd6ae8b93942a3
+2129	5084	6907452286826792	CMakeFiles/Unit_1_HelloWorld.dir/mainwindow.cpp.obj	f3900cb8b6390b95
+5085	5543	6907452291318923	Unit_1_HelloWorld.exe	aa19b1882109cecc
+11	777	6907452552033248	Unit_1_HelloWorld_autogen/timestamp	4df1f372af4b910e
+11	777	6907452552033248	Unit_1_HelloWorld_autogen/mocs_compilation.cpp	4df1f372af4b910e
+11	777	6907452552033248	D:/A_Minh/B_Qt_Projects/Study_Qt/build-Unit_1_HelloWorld-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/Unit_1_HelloWorld_autogen/timestamp	4df1f372af4b910e
+11	777	6907452552033248	D:/A_Minh/B_Qt_Projects/Study_Qt/build-Unit_1_HelloWorld-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/Unit_1_HelloWorld_autogen/mocs_compilation.cpp	4df1f372af4b910e
+818	3265	6907452576943857	CMakeFiles/Unit_1_HelloWorld.dir/mainwindow.cpp.obj	f3900cb8b6390b95
+3266	3680	6907452580997972	Unit_1_HelloWorld.exe	aa19b1882109cecc

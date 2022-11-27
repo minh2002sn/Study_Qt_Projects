@@ -1,0 +1,15 @@
+# ninja log v5
+3	1849	6907477833667843	Unit3_QString_autogen/timestamp	e5635123ce9630d6
+3	1849	6907477833667843	Unit3_QString_autogen/mocs_compilation.cpp	e5635123ce9630d6
+3	1849	6907477833667843	D:/A_Minh/B_Qt_Projects/Study_Qt/build-Unit3_QString-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/Unit3_QString_autogen/timestamp	e5635123ce9630d6
+3	1849	6907477833667843	D:/A_Minh/B_Qt_Projects/Study_Qt/build-Unit3_QString-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/Unit3_QString_autogen/mocs_compilation.cpp	e5635123ce9630d6
+1857	4655	6907477865266686	CMakeFiles/Unit3_QString.dir/mainwindow.cpp.obj	cdb5b298773464a8
+1854	4690	6907477865625770	CMakeFiles/Unit3_QString.dir/main.cpp.obj	f85e958a6428c03b
+1851	4706	6907477865785352	CMakeFiles/Unit3_QString.dir/Unit3_QString_autogen/mocs_compilation.cpp.obj	1cd176427c1e3d81
+4707	5148	6907477870134938	Unit3_QString.exe	914ee697e5176f7
+10	779	6907478124550415	Unit3_QString_autogen/timestamp	e5635123ce9630d6
+10	779	6907478124550415	Unit3_QString_autogen/mocs_compilation.cpp	e5635123ce9630d6
+10	779	6907478124550415	D:/A_Minh/B_Qt_Projects/Study_Qt/build-Unit3_QString-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/Unit3_QString_autogen/timestamp	e5635123ce9630d6
+10	779	6907478124550415	D:/A_Minh/B_Qt_Projects/Study_Qt/build-Unit3_QString-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/Unit3_QString_autogen/mocs_compilation.cpp	e5635123ce9630d6
+818	3392	6907478150693906	CMakeFiles/Unit3_QString.dir/mainwindow.cpp.obj	cdb5b298773464a8
+3393	3828	6907478154941455	Unit3_QString.exe	914ee697e5176f7
